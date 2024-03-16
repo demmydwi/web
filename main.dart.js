@@ -58717,7 +58717,7 @@ p===$&&A.d()
 p=16*(o.a.a/p.a)
 q=q.mA(B.eN,p>12?p:12)}p=t.E
 o=t.w
-q=A.tM(A.a([A.a5X(A.Od(A.a([l,B.FI,s,B.FJ,A.tM(A.a([r,B.FH,A.a5X(A.ul("Proven experience building successful products for clients across several countries.",n,n,q,n,n))],p),B.br,B.aQ,B.aR)],p),B.br,B.aQ,B.dw)),A.EI(B.hI,!(A.cV(a,n,o).w.a.a<=700))],p),B.aZ,B.aQ,B.aR)
+q=A.tM(A.a([A.a5X(A.Od(A.a([l,B.FI,s,B.FJ,A.tM(A.a([r,B.FH,A.a5X(A.ul("Proven experience building successful products for 50+ clients.",n,n,q,n,n))],p),B.br,B.aQ,B.aR)],p),B.br,B.aQ,B.dw)),A.EI(B.hI,!(A.cV(a,n,o).w.a.a<=700))],p),B.aZ,B.aQ,B.aR)
 o=A.cV(a,n,o).w
 return A.d_(n,A.Od(A.a([q,A.EI(A.d_(B.T,B.hI,n,n,n,B.y2,n,n),o.a.a<=700),B.zj],p),B.br,B.aQ,B.dw),n,n,n,new A.aW(m,0,24,48),B.j1,n)}}
 A.ns.prototype={
